@@ -23,7 +23,7 @@ i)	#Selection Sort
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: V.S.JANANI
 RegisterNumber: 22003192
-'''
+
 def selection_sort(nums):
     for i in range(len(nums)):
         low_index=i
@@ -41,7 +41,7 @@ ii)	#Insertion Sort
 Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: V.S.JANANI
 RegisterNumber: 22003192
-'''
+
 def insertion_sort(nums):
     for i in range(1,len(nums)):
         item=nums[i]
@@ -58,6 +58,12 @@ print(value)
 ```
 
 ## Output:
+List using the Selection Sort algorithm:
+![Screenshot from 2022-09-25 21-26-03](https://user-images.githubusercontent.com/113497333/192152932-300eb66b-f15c-411f-a2ba-261f14d4d5de.png)
+
+ List using the Insertion Sort algorithm:
+ ![Screenshot from 2022-09-25 21-27-25](https://user-images.githubusercontent.com/113497333/192152983-d369a9fa-4d73-4212-93a2-9dc55d22f7df.png)
+
 
 
 ## Result:
